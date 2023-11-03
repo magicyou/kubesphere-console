@@ -15,7 +15,7 @@
     "d3-zoom": "^1.8.3",
     "dagre": "^0.8.4",
     "diff": "^4.0.2",
-    "diff2html": "^3.1.6",
+    "diff2html": "^3.4.45",
     "dnscache": "^1.0.2",
     "fast-copy": "^2.0.3",
     "file-saver": "^1.3.8",
