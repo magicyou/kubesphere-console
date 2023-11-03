@@ -70,7 +70,7 @@
     "stream-array": "^1.1.2",
     "strip-ansi": "^5.2.0",
     "whatwg-fetch": "^3.0.0",
-    "xterm": "3.8.1"
+    "xterm": "3.14.5"
   },
   "scripts": {
     "start": "concurrently -k --raw \"yarn dev:client\" \"yarn dev:server\"",
